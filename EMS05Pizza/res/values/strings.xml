@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EMS05Pizza</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="pizza1">불고기 피자</string>
+    <string name="pizza2">페퍼로니 피자</string>
+    <string name="pizza3">치즈 피자</string>
+    <string name="pizza4">갈릭 쉬림프 피자</string>
+    <string name="pizza5">치즈킹 피자</string>
+    <string name="pizza6">스테이크 피자</string>
+    <string name="pizza7">더블 바베큐 피자</string>
+    <string name="pizza8">치즈 스테이크 피자</string>
+    <string name="pizza_add">담기</string>
+    <string name="pizza_result">주문 하기</string>
+    <string name="pizza_title">부경 피자</string>
+
+</resources>
